@@ -179,12 +179,10 @@ Contribuições são bem-vindas! Para contribuir:
 - **Teste antes de usar**: Sempre teste com arquivos não importantes primeiro
 - **Não compartilhe senhas**: Use senhas únicas e fortes
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
 ## Autor
-
+Matheus Cardoso Gomes
+Email: matheus04042006@gmail.com
+LinkedIn: www.linkedin.com/in/matheus-cardoso-70552b138
 Desenvolvido para o desafio de criptografia em Python.
 
 ## Links Úteis
