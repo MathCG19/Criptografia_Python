@@ -183,6 +183,7 @@ Contribuições são bem-vindas! Para contribuir:
 Matheus Cardoso Gomes
 Email: matheus04042006@gmail.com
 LinkedIn: www.linkedin.com/in/matheus-cardoso-70552b138
+
 Desenvolvido para o desafio de criptografia em Python.
 
 ## Links Úteis
